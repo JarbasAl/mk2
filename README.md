@@ -1,2 +1,2 @@
 # neon-enclosure
-Enclosure module
+GUIServiceEnclosure module
